@@ -12,7 +12,7 @@ personalToggleBtn.addEventListener('click', function () {
         personalToggleBtn.textContent = 'Show Personal Info';
     }
 });
-// Toggle Personal Information Section
+// Toggle Education Section
 var educationSection = document.querySelector('.education');
 var educationToggleBtn = document.getElementById('toggle-education-btn');
 educationToggleBtn.addEventListener('click', function () {
